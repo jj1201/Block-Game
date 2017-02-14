@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.core.classpathVariable.JUNIT_HOME=/Users/jiajiachen/Documents/Eclipse java.app/Contents/Eclipse/plugins/org.junit_4.12.0.v201504281640/
+org.eclipse.jdt.core.classpathVariable.M2_REPO=/Users/jiajiachen/.m2/repository
+org.eclipse.jdt.core.classpathVariable.blocks=/Users/jiajiachen/Documents/workspace/FinalProject/blocks
+org.eclipse.jdt.core.compiler.problem.forbiddenReference=warning
